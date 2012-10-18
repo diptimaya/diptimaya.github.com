@@ -7,6 +7,7 @@ acronym,
 address,
 applet,
 article,
+aside,
 audio,
 b,
 big,
@@ -31,7 +32,14 @@ fieldset,
 figcaption,
 figure,
 font,
+footer,
 form,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
 header,
 hgroup,
 hr,
@@ -43,11 +51,13 @@ ins,
 kbd,
 label,
 legend,
+li,
 mark,
 menu,
 meter,
 nav,
 object,
+ol,
 output,
 p,
 pre,
@@ -85,49 +95,7 @@ xmp {
   padding: 0;
   font-size: 100%;
 }
-h1{
-   font-family: 'Open Sans', sans-serif;
-  color:#5CB3FF;
-  font-size: 50px;
-  font-weight: bolder;
-  letter-spacing: 10px;
 
-}
-h2{
-   font-family: 'Open Sans', sans-serif;
-   color:#5CB3FF;
-   font-size: 25px;
-
-
-}
-h4{
-  font-family: 'Open Sans', sans-serif;
-  color:#5CB3FF;
-  font-size: 25px;
-}
-aside ul{
-  list-style: none;
-  font-size: 40px;
-  font-weight:bolder;
-    letter-spacing: 3px;
-    color: black;
-}
-.nav{
-  margin: auto;
-    display: inline;
-    text-align: center;
-    padding-right:40px;
-    font-weight: bolder;
-    width:850px;
-    letter-spacing:3px; 
-
-
-
-}
-.nav ul{
-  color:black;
-  font-size: 50px;
-}
 html,
 body {
   height: 100%;
@@ -200,7 +168,7 @@ td,
 caption {
   font-weight: normal;
   vertical-align: top;
-  text-align: left;
+  text-align: right;
 }
 
 q {
