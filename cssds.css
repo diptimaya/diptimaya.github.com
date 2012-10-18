@@ -97,6 +97,7 @@ aside ul{
 	margin: auto;
     display: inline;
     text-align: center;
+    padding-right:40px;
     font-weight: bolder;
     width:850px;
     letter-spacing:3px; 
