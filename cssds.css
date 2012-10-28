@@ -64,9 +64,8 @@ color: white;
     -moz-border-radius:25px;
     background: white;
     filter: alpha(opacity=64);    
-     opacity: .64;
-
-
+    opacity: .64;
+    
 	}
 
 .mid h2{
@@ -88,10 +87,10 @@ aside{
 aside ul{
 	list-style: none;
 	font-size: 40px;
-	font-weight:bolder;
     letter-spacing: 3px;
     padding-left: 46px;
-    color: black;
+    color: :white;
+
 }
 
 .mid ul{
@@ -104,17 +103,10 @@ aside ul{
     display: inline;
     text-align: center;
     padding-right:40px;
-    font-weight: bolder;
     width:850px;
     letter-spacing:3px; 
+    color: :white;
 
-
-
-}
-
-.nav ul{
-
-	font-size: 50px;
 }
 
  a{
