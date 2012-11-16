@@ -2,7 +2,7 @@ body{
 	margin: auto;
 }
 
-.container{
+#container{
 	width:1200px;
 	margin-left: auto;
 	margin-right: auto;
@@ -43,14 +43,14 @@ p{
     color: white;
 }
 
-.top{
+#top{
 	margin: auto;
 	width:800px;
 	text-align: center;
 	
 }
 
-.mid{
+#mid{
 	margin: auto;
 	width:500px;
 	text-align: center;
@@ -67,12 +67,12 @@ p{
     
 	}
 
-.mid h2{
+#mid h2{
   	color:#56A5EC;
 
   }	
 
-.mid ul{
+#mid ul{
 	list-style: none;
 	color: black;
 }
@@ -99,7 +99,7 @@ aside ul{
 
 
 
-.nav{
+#nav li{
 	margin: auto;
     display: inline;
     text-align: center;
@@ -110,7 +110,7 @@ aside ul{
 
 }
 
- a{
+a{
    text-decoration: none;
    color: white;
 }
@@ -121,7 +121,7 @@ ul a:hover{
 	color: #5CB3FF;
 }
 
-.side{
+#side{
 	float:right;
 	width: 100px;
 	height:300px;
