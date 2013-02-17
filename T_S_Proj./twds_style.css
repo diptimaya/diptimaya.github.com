@@ -1,0 +1,48 @@
+body{
+  
+  background-color: black;
+
+}
+#container{
+     
+    text-align: center;
+    margin: auto;
+    
+
+}
+h1{
+   color: #E0E0E0;
+   font-family: 'Qwigley', cursive;
+   font-size: 90px;
+   letter-spacing: 10px;
+
+
+}
+p{
+   color: #E0E0E0;
+   font-family: 'Qwigley', cursive;
+   font-size: 35px;
+   letter-spacing: 2px;
+
+}
+
+a{
+   font-size: 20px;
+   color:#FFCC00;
+
+
+}
+#love_me{
+    margin-right: 150px;
+
+}
+
+a:hover{
+   font-size: 25px;
+   color: white;
+
+}
+footer p{
+    font-size: 15px;
+    
+ }
